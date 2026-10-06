@@ -1,0 +1,2 @@
+MAX_CHARS: int = 10000
+ITERATIONS: int = 20
